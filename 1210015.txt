@@ -1,0 +1,6 @@
+Name   :Darlene Lazaro
+Number : 10010
+The total gross wage = 19,703.055
+Number of Days Worked = 18
+Number of Absents = 2
+Number of lates = 3

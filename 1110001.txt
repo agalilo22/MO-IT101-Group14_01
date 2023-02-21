@@ -1,0 +1,6 @@
+Name   : Jose Crisostomo
+Number : 10001
+The total gross wage = 55,955.28
+Number of Days Worked = 18
+Number Of Absents = 2
+Number of lates = 0

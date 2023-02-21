@@ -1,0 +1,6 @@
+Name  :Christian Mata
+Number : 10002
+The total gross wage = 42,975.00
+Number of Days Worked = 20
+Number of lates = 0
+

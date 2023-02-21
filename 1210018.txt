@@ -1,0 +1,6 @@
+Name   :Tomas Del Rosario
+Number : 10018
+The total gross wage = 18,080.31
+Number of Days Worked = 17
+Number of Absents = 3
+Number of lates = 3

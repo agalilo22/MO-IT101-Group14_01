@@ -1,0 +1,6 @@
+Name   :Alice Romualdez
+Number : 10005
+The total gross wage = 20,055.78
+Number of Days Worked = 18
+Number of Absents = 2
+Number of lates = 3

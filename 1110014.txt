@@ -1,0 +1,6 @@
+Name   :Mark Bautista
+Number : 10014
+The total gross wage = 22,419.66
+Number of Days Worked = 19
+Number of Absents = 1
+Number of lates = 3

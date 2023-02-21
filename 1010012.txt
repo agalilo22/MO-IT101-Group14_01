@@ -1,0 +1,6 @@
+Name   :Selena De Leon
+Number : 10012
+The total gross wage = 41,850.00
+Number of Days Worked = 20
+Number of Absents = 0
+Number of lates = 0

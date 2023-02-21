@@ -1,0 +1,6 @@
+Name   :Rosie Atienza
+Number : 10006
+The total gross wage = 22,500.00
+Number of Days Worked = 20
+Number of Absents = 0
+Number of lates = 0

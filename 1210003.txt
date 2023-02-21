@@ -1,0 +1,6 @@
+Name   :Brad San Jose
+Number : 10003
+The total gross wage = 13,046.4
+Number of Days Worked = 7
+Number of Absents = 13
+Number of lates = 2

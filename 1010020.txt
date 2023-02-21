@@ -1,0 +1,6 @@
+Name   :Percival Gutierrez
+Number : 10020
+The total gross wage = 24554.36
+Number of Days Worked = 20
+Number of Absents = 0
+Number of lates = 3

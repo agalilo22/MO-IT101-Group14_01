@@ -1,0 +1,6 @@
+Name   :Carol Ramos
+Number : 10023
+The total gross wage = 17,477.625
+Number of Days Worked = 17
+Number of Absents = 3
+Number of lates = 6

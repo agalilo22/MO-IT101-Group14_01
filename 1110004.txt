@@ -1,0 +1,6 @@
+Name   :Anthony Salcedo
+Number : 10004
+The total gross wage = 54,308.1
+Number of Days Worked = 18
+Number of Absents = 2
+Number of lates = 0

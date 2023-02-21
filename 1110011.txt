@@ -1,0 +1,6 @@
+Name   :Josie Lopez
+Number : 10011
+The total gross wage = 32,634.99
+Number of Days Worked = 18
+Number of Absents = 2
+Number of lates = 3

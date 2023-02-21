@@ -1,0 +1,6 @@
+Name   :Allison San Jose
+Number : 10009
+The total gross wage = 20,089.26
+Number of Days Worked = 18
+Number of Absents = 2
+Number of lates = 0

@@ -1,0 +1,6 @@
+Name   ;Garfield Manalaysay
+Number : 10021
+The total gross wage = 21,427.935
+Number of Days Worked = 20
+Number of Absents = 0
+Number of lates = 8

@@ -1,0 +1,6 @@
+Name   :Martha Farala
+Number : 10007
+The total gross wage = 21,388.043
+Number of Days Worked = 18
+Number of Absents = 2
+Number of lates = 2

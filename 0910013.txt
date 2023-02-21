@@ -1,0 +1,6 @@
+Name   :Fredrick Romualdez
+Number : 10013
+The total gross wage = 61,232.12
+Number of Days Worked = 20
+Number of Absents = 0
+Number of lates = 3

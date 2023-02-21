@@ -1,0 +1,6 @@
+Name   :Emelia Maceda
+Number : 10024
+The total gross wage = 20,191.955
+Number of Days Worked = 19
+Number of Absents = 1
+Number of lates = 7
