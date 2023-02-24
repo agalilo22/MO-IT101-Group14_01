@@ -54,7 +54,13 @@ public class JavaMotorPH {
 		print(" ");
 		//Enter your Employee Number 
 		print ("Enter Employee Number  : ");
+		
 		int empNum = sc.nextInt();
+		if (empNum <= 10025)
+		{System.out.println("Welcome!");
+		}else if (empNum >= 10026)
+			
+		{System.exit(0);}
 		// The file name must consist of the month and the full employee number + .txt
 		print ("Enter 09 and employee number to start + .txt  : ");
 		String myFile= sc.next();
