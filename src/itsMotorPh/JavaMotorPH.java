@@ -18,7 +18,9 @@ public class JavaMotorPH {
 			}
 			
 		}catch (FileNotFoundException e) {
-				System.out.println ("File not Found!");
+				System.out.println ("Invalid Date and Employee Number!!!");
+			System.exit(0);
+			
 			}
 			
 		
