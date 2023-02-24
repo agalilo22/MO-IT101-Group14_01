@@ -1315,6 +1315,9 @@ public class JavaMotorPH {
 			System.exit(0);
 			
 		}
+		System.out.println("Thank you !");
+		
+		sc.close();
 
 	}
 
